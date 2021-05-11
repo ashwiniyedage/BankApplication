@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Cinzel', serif;
+}
+
+.centerdiv
+{
+	height: 500px;
+	width: 400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: #292075;
+	transform : translate(-50%, -50%);
+	opacity:0.9;
+}
+h2
+{
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	font-size: 2em;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	text-shadow: -2px 2px 1px #0A84C6;
+}
+.inputbox
+{
+	width: calc(100% - 40px);
+	height: 30px;
+	display: block;
+	margin: auto;
+	box-sizing: borderbox;
+}
+button
+{
+	color: white;
+	background-color: #0A84C6;
+	border: none;
+}
+

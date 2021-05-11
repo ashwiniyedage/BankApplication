@@ -1,0 +1,71 @@
+@charset "ISO-8859-1";
+.bgimg
+{
+	background-image: url('../img/bg.png');
+	background-size:100% 100%;
+	width: 100%;
+	height: 660px;
+}
+.ourservices
+{
+  padding: 100px 0px 60px;
+  height: 700px;
+}
+.ourservices h1
+{
+	font-weight:bold;
+}
+.imgseeting
+{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+#collapsenavbar a:hover
+{
+	text-decoration: underline;
+}
+#collapsenavbar a
+{
+	font-size:30px;
+}
+.dropdown a:hover 
+{
+  color: #ca2b4a;
+}
+.dropdown-menu a:hover 
+{
+	background-color: #d0d0d0;
+}
+.dropdown-menu a
+{
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.fa-mobile 
+{
+	margin:20px;
+}
+.fa-credit-card
+{
+	margin:20px;
+}
+.rowsetting
+{
+	margin-top: 50px;
+}
+.rowsetting p
+{
+	margin-top:20px;
+	font-style :italic;
+}
+.foot a
+{
+	color: black;
+}
+.foot li
+{
+	margin:10px;
+}
